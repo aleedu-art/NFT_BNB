@@ -5,9 +5,7 @@
  */
 
 // Configuração da API Moralis
-//const MORALIS_API_KEY = "19607b25-434b-43d6-9c6e-77265f7e0b3e"; // Substitua pela sua API key do Moralis
-const MORALIS_API_KEY = "RRNiQnNnOY4jiYWxltXsKsr6oYFdHrS17jNpMMZcVEuLP6n5OO0BcBeBNLrVRwVn" ; // Substitua pela sua API key do Moralis
-
+const MORALIS_API_KEY = "19607b25-434b-43d6-9c6e-77265f7e0b3e"; // Substitua pela sua API key do Moralis
 const BNB_TESTNET_CHAIN_ID = ["0x61", "97"]; // Chain ID da BNB Smart Chain Testnet (hex e decimal)
 const BNB_TESTNET_CHAIN_NAME = "bsc testnet"; // Nome da chain para a API Moralis v2
 const BSCSCAN_TESTNET_URL = "https://testnet.bscscan.com";
